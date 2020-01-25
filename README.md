@@ -21,7 +21,12 @@ Also, to enable the user’s work space to have additional functionalities which
 
 
 
+
+
+
+
 The main aim of this project is to develop software for Online Banking System. 
+
 
 
 This project has been developed to carry out the processes easily and quickly, which is not possible with the manual systems,
@@ -46,7 +51,13 @@ The project analyses the system requirements and then comes up with the requirem
 The system is then designed in accordance specifications to satisfy the requirements.
 
 
+
+
+
+
+
 SOFTWARE REQUIREMENTS:
+
 
 
 • Operating system : Windows XP/7/10.
@@ -58,6 +69,7 @@ SOFTWARE REQUIREMENTS:
 •  Database : MYSQL (Install XAMPP)
 
 •  Server: XAMPP
+
 
 
 
